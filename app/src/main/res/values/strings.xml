@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Back to Ground Zero</string>
+    <string name="label_button_toast">Toast</string>
+    <string name="label_button_increment">Increment</string>
+    <string name="count_initial_value">0</string>
+    <string name="toast_message">Toasted</string>
+    <string name="increment">Incremented</string>
+    <string name="reset">Reset successfully</string>
+</resources>
